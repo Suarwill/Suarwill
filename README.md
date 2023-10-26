@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy William, conocido como @Suarwill.
+👋 ¡Hola! Soy William, alias @Suarwill.
 
 👀 Me encanta explorar el mundo de la ciberseguridad y mi perfil de GitHub es el lugar donde podrás seguir mi viaje de aprendizaje, encontrar proyectos interesantes y explorar mis contribuciones e ir viendo mi progreso.
 
