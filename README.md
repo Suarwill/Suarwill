@@ -8,8 +8,9 @@ También soy un entusiasta en seguir aprendiendo en Python y un apasionado por e
 📫 Si deseas contactarme, no dudes en escribirme a 23763487k@gmail.com. 
 
 
-Explora los proyectos en los que he trabajado, además, mi viaje de aprendizaje nunca se detiene. 
-Actualizo constantemente mis intereses de aprendizaje y proyectos en los que estoy trabajando. Además, cuento con un diplomado en Big Data, lo que me permite abordar proyectos de análisis de datos de manera efectiva.
+Actualizo constantemente mis intereses de aprendizaje y proyectos en los que estoy trabajando. 
+Otros conocimientos:
+- Diplomado en Big Data, lo que me permite abordar proyectos de análisis de datos de manera efectiva.
 
 Espero mi perfil sea de tu agrado a la vista.
 
