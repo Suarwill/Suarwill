@@ -1,8 +1,9 @@
 👋 ¡Hola! Soy William, alias @Suarwill.
 
-👀 Me encanta explorar el mundo de la ciberseguridad y mi perfil de GitHub es el lugar donde podrás seguir mi viaje de aprendizaje, encontrar proyectos interesantes y explorar mis contribuciones e ir viendo mi progreso.
+👀 Me encanta explorar el mundo de los datos y ciberseguridad, mi perfil de GitHub es el lugar donde podrás seguir mi viaje de aprendizaje, encontrar proyectos interesantes y explorar mis contribuciones e ir viendo mi progreso.
 
-🌱 Actualmente, soy estudiante de ciberseguridad y estoy comprometido en profundizar mis conocimientos y habilidades en este campo. Desde el análisis de vulnerabilidades hasta la implementación de soluciones de seguridad, mi objetivo es convertirme en un experto en la protección de sistemas y datos. También soy un entusiasta en seguir aprendiendo en Python y un apasionado por el análisis de datos.
+🌱 Actualmente, soy estudiante de ciberseguridad y estoy comprometido en profundizar mis conocimientos y habilidades en este campo. Desde el análisis de vulnerabilidades hasta la implementación de soluciones de seguridad, mi objetivo es convertirme en un experto en la protección de sistemas y datos. 
+También soy un entusiasta en seguir aprendiendo en Python y un apasionado por el análisis de datos.
 
 📫 Si deseas contactarme, no dudes en escribirme a 23763487k@gmail.com. 
 
