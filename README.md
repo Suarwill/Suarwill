@@ -10,7 +10,7 @@ También soy un entusiasta en seguir aprendiendo en Python y un apasionado por e
 
 Actualizo constantemente mis intereses de aprendizaje y proyectos en los que estoy trabajando. 
 Otros conocimientos:
-- Diplomado en Big Data, lo que me permite abordar proyectos de análisis de datos de manera efectiva.
+- Diplomado en "Técnico en Big Data", lo que me permite abordar proyectos de análisis de datos de manera efectiva.
 
 Espero mi perfil sea de tu agrado a la vista.
 
