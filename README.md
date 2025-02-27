@@ -5,7 +5,7 @@
 🌱 Actualmente, soy estudiante de ciberseguridad y estoy comprometido en profundizar mis conocimientos y habilidades en este campo. Desde el análisis de vulnerabilidades hasta la implementación de soluciones de seguridad, mi objetivo es convertirme en un experto en la protección de sistemas y datos. 
 También soy un entusiasta en seguir aprendiendo en Python y un apasionado por el análisis de datos.
 
-Si deseas contactarme, no dudes en escribirme a 📫 23763487k@gmail.com. 
+Si deseas contactarme, no dudes en escribirme a 📫 wsuar3z@gmail.com. 
 
 
 Actualizo constantemente mis intereses de aprendizaje y proyectos en los que estoy trabajando. 
