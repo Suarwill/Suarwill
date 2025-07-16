@@ -1,20 +1,27 @@
-👋 ¡Hola! Soy William, alias @Suarwill.
+# 👋 ¡Hola! Soy William, alias @Suarwill.
 
-👀 Me encanta explorar el mundo de los datos y ciberseguridad, mi perfil de GitHub es el lugar donde podrás seguir mi viaje de aprendizaje, encontrar proyectos interesantes y explorar mis contribuciones e ir viendo mi progreso.
+👀 Me apasiona explorar el mundo de los datos y la ciberseguridad. Mi perfil de GitHub es el lugar donde podrás seguir mi viaje de aprendizaje, encontrar proyectos interesantes, explorar mis contribuciones y observar mi progreso.
 
-🌱 Actualmente, soy estudiante de ciberseguridad y estoy comprometido en profundizar mis conocimientos y habilidades en este campo. Desde el análisis de vulnerabilidades hasta la implementación de soluciones de seguridad, mi objetivo es convertirme en un experto en la protección de sistemas y datos. 
-También soy un entusiasta en seguir aprendiendo en Python y un apasionado por el análisis de datos.
+## Sobre mí:
+🌱 Soy Técnico Informático en Ciberseguridad, comprometido con profundizar mis conocimientos y habilidades en este campo. Desde el análisis de vulnerabilidades hasta la implementación de soluciones de seguridad, mi objetivo es convertirme en un experto en la protección de sistemas y datos.  
+Además, soy un entusiasta de la informática y sus diversas áreas de aplicación.
 
-Si deseas contactarme, no dudes en escribirme a 📫 wsuar3z@gmail.com. 
+## Tecnologías:
+💻 Estas son algunas de las tecnologías que he aprendido:  
+![JavaScript](https://cdn-icons-png.flaticon.com/128/5968/5968292.png)  
 
-
-Actualizo constantemente mis intereses de aprendizaje y proyectos en los que estoy trabajando. 
-Otros conocimientos:
+## Otros conocimientos:
 - Diplomado en "Técnico en Big Data", lo que me permite abordar proyectos de análisis de datos de manera efectiva.
 
-Espero mi perfil sea de tu agrado a la vista.
+## Contacto:
+📫 Si deseas contactarme, no dudes en escribirme a: 
+**wsuar3z@gmail.com**.
+
+---
+
+Actualizo constantemente mis intereses de aprendizaje y los proyectos en los que estoy trabajando.  
+Espero que mi perfil sea de tu agrado.
 
 <!---
-Este es un repositorio especial, el cual tiene mi perfil principal.
-You can click the Preview link to take a look at your changes.
+Este es un repositorio especial, el cual contiene mi perfil principal.
 --->
