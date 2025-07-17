@@ -7,10 +7,13 @@
 Además, soy un entusiasta de la informática y sus diversas áreas de aplicación.
 
 ## Tecnologías:
-💻 Estas son algunas de las tecnologías que he aprendido:  
-![JavaScript](https://cdn-icons-png.flaticon.com/128/5968/5968292.png) ![Python](https://cdn-icons-png.flaticon.com/128/919/919852.png) 
-![React](https://cdn-icons-png.flaticon.com/128/1183/1183672.png) ![Node](https://cdn-icons-png.flaticon.com/128/919/919825.png)
-![HTML](https://cdn-icons-png.flaticon.com/128/5968/5968267.png) ![CSS](https://cdn-icons-png.flaticon.com/128/5968/5968268.png) 
+💻 Estas son algunas de las tecnologías con las que trabajo:  
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="100" height="100"> 
+<img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="Python" width="100" height="100"> 
+<img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" alt="React" width="100" height="100"> 
+<img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="Node" width="100" height="100"> 
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="HTML" width="100" height="100"> 
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968268.png" alt="CSS" width="100" height="100"> 
 
 ## Otros conocimientos:
 - Diplomado en "Técnico en Big Data", lo que me permite abordar proyectos de análisis de datos de manera efectiva.
