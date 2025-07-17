@@ -8,7 +8,9 @@ Además, soy un entusiasta de la informática y sus diversas áreas de aplicaci�
 
 ## Tecnologías:
 💻 Estas son algunas de las tecnologías que he aprendido:  
-![JavaScript](https://cdn-icons-png.flaticon.com/128/5968/5968292.png)  
+![JavaScript](https://cdn-icons-png.flaticon.com/128/5968/5968292.png) ![Python](https://cdn-icons-png.flaticon.com/128/919/919852.png) 
+![React](https://cdn-icons-png.flaticon.com/128/1183/1183672.png) ![Node](https://cdn-icons-png.flaticon.com/128/919/919825.png)
+![HTML](https://cdn-icons-png.flaticon.com/128/5968/5968267.png) ![CSS](https://cdn-icons-png.flaticon.com/128/5968/5968268.png) 
 
 ## Otros conocimientos:
 - Diplomado en "Técnico en Big Data", lo que me permite abordar proyectos de análisis de datos de manera efectiva.
