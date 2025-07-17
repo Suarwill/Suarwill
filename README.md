@@ -7,7 +7,7 @@
 Además, soy un entusiasta de la informática y sus diversas áreas de aplicación.
 
 ## Tecnologías:
-💻 Estas son algunas de las tecnologías con las que trabajo:
+💻 Estas son algunas de las tecnologías con las que trabajo:     
 <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png"    alt="Python" width="100" height="100">  
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"  alt="JavaScript" width="100" height="100"> 
 <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png"  alt="React" width="100" height="100"> 
