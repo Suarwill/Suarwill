@@ -17,13 +17,18 @@ Además, soy un entusiasta de la informática y sus diversas áreas de aplicaci�
   <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="Python" width="100" height="100">
   <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" alt="React" width="100" height="100">
   <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="Node.js" width="100" height="100">
+</p>
+<p align="center">
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="PostgreSQL" width="100" height="100">
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-300x245.png" alt="MariaDB" width="100" height="100">
   <img src="https://www.muylinux.com/wp-content/uploads/2019/01/mongodb.png" alt="MongoDB" width="100" height="100">
+</p>
+<p align="center">
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="HTML" width="100" height="100">
   <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="CSS" width="100" height="100">
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="100" height="100">
 </p>
+
 
 🛡 También tecnologías como:  
 **Flask, FastAPI, Django, Bootstrap, Docker, Pandas y Numpy.**
