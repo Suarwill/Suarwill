@@ -30,11 +30,10 @@ Además, soy un entusiasta de la informática y sus diversas áreas de aplicaci�
 </p>
 
 
-🛡 También tecnologías como:  
-**Flask, FastAPI, Django, Bootstrap, Docker, Pandas y Numpy.**
-
-📦 En web scraping:  
-**Beautiful Soup y Selenium.**
+### 🔧 Otras tecnologías:
+- **Frameworks y herramientas:** Flask, FastAPI, Django, Bootstrap, Docker.  
+- **Análisis de datos:** Pandas, Numpy.  
+- **Web scraping:** Beautiful Soup, Selenium.
 
 ---
 
