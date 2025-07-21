@@ -1,12 +1,13 @@
 # 👋 ¡Hola! Soy William, alias @Suarwill.
 
-👀 Me apasiona explorar el mundo de los datos y la ciberseguridad. Mi perfil de GitHub es el lugar donde podrás seguir mi viaje de aprendizaje, encontrar proyectos interesantes, explorar mis contribuciones y observar mi progreso.
+👀 Me apasiona explorar el mundo de los datos y la ciberseguridad. Mi perfil de GitHub es el lugar donde podrás seguir mi viaje de aprendizaje, encontrar proyectos interesantes que he realizado y observar mi progreso.
 
 ---
 
 ## Sobre mí:
-🌱 Soy Técnico Informático en Ciberseguridad, comprometido con profundizar mis conocimientos y habilidades en este campo. Desde el análisis de vulnerabilidades hasta la implementación de soluciones de seguridad, mi objetivo es convertirme en un experto en la protección de sistemas y datos.  
-Además, soy un entusiasta de la informática y sus diversas áreas de aplicación.
+🌱 Soy Técnico Informático especializado en Ciberseguridad, apasionado por profundizar mis conocimientos y habilidades en este campo. Mi experiencia abarca desde el análisis de vulnerabilidades hasta la implementación de soluciones de seguridad y desarrollo de proyectos funcionales.  
+
+💡 Además, soy un entusiasta de la informática y sus múltiples áreas de aplicación. He trabajado en proyectos Full Stack, así como en la automatización de tareas funcionales, como sistemas de inventarios para sectores de compras en empresas. También he realizado análisis de vulnerabilidades para mejorar la seguridad en empresas.
 
 ---
 
@@ -30,10 +31,22 @@ Además, soy un entusiasta de la informática y sus diversas áreas de aplicaci�
 </p>
 
 
-### 🔧 Otras tecnologías:
-- **Frameworks y herramientas:** Flask, FastAPI, Django, Bootstrap, Docker.  
-- **Análisis de datos:** Pandas, Numpy.  
-- **Web scraping:** Beautiful Soup, Selenium.
+### 🔧 Otras tecnologías y herramientas que utilizo:
+
+- **Frameworks y herramientas de desarrollo:**  
+  Flask, FastAPI, Django, Bootstrap, Docker, Tkinter.  
+
+- **Análisis y manipulación de datos:**  
+  Pandas, Numpy.  
+
+- **Ciberseguridad y análisis de vulnerabilidades:**  
+  Nmap, Metasploit, Burp Suite, Wireshark, Foka, Google Dorks.  
+
+- **Web scraping y automatización de procesos:**  
+  Beautiful Soup, Selenium.  
+
+- **Scripting y automatización de tareas:**  
+  Bash, PowerShell, Visual Basic 6.
 
 ---
 
