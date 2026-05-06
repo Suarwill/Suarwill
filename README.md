@@ -15,21 +15,15 @@ Desde la implementación de Honeypots hasta el hardening de entornos Linux, busc
 ## Tecnologías:
 💻 Estas son algunas de las tecnologías con las que trabajo:  
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="Python" width="80" height="80">
-  <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" alt="React" width="80" height="80">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="Node.js" width="80" height="80">
-</p>
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="PostgreSQL" width="80" height="80">
-  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-300x245.png" alt="MariaDB" width="80" height="80">
-  <img src="https://www.muylinux.com/wp-content/uploads/2019/01/mongodb.png" alt="MongoDB" width="80" height="80">
-</p>
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="HTML" width="80" height="80">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="CSS" width="80" height="80">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="80" height="80">
-</p>
+<div align="center">
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" width="80"> <br> **Python** | <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" width="80"> <br> **React** | <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="80"> <br> **Node.js** |
+| <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" width="80"> <br> **PostgreSQL** | <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-300x245.png" width="80"> <br> **MariaDB** | <img src="https://www.muylinux.com/wp-content/uploads/2019/01/mongodb.png" width="80"> <br> **MongoDB** |
+| <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width="80"> <br> **HTML** | <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" width="80"> <br> **CSS** | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="80"> <br> **JavaScript** |
+
+</div>
 
 
 ### Otras tecnologías y herramientas que utilizo:
