@@ -1,13 +1,14 @@
 # ¡Hola! Soy William, alias @Suarwill.
 
-Me apasiona explorar el mundo de los datos y la ciberseguridad. Mi perfil de GitHub es el lugar donde podrás seguir mi viaje de aprendizaje, encontrar proyectos interesantes que he realizado y observar mi progreso.
+Analista Informático | Analista en Ciberseguridad | Desarrollador Full Stack
+Me especializo en la optimización de procesos críticos y el fortalecimiento de infraestructuras digitales. Mi enfoque combina la agilidad del desarrollo Full Stack con la rigurosidad de la ciberseguridad para transformar operaciones manuales en ecosistemas automatizados, seguros y auditables.
 
 ---
 
 ## Sobre mí:
-Soy Técnico Informático especializado en Ciberseguridad, apasionado por profundizar mis conocimientos y habilidades en este campo. Mi experiencia abarca desde el análisis de vulnerabilidades hasta la implementación de soluciones de seguridad y desarrollo de proyectos funcionales.  
-
-Además, soy un entusiasta de la informática y sus múltiples áreas de aplicación. He trabajado en proyectos Full Stack, así como en la automatización de tareas funcionales, como sistemas de inventarios para sectores de compras en empresas. También he realizado análisis de vulnerabilidades para mejorar la seguridad en empresas.
+He diseñado soluciones que reducen tiempos operativos hasta en un 87.5%, integrando tecnologías como Python, FastAPI y Docker.  
+Mi trayectoria une la complejidad de la gestión logística con el desarrollo de software de Business Intelligence (BI).  
+Desde la implementación de Honeypots hasta el hardening de entornos Linux, busco garantizar la continuidad de los negocios frente a vectores de ataque modernos.
 
 ---
 
@@ -15,26 +16,26 @@ Además, soy un entusiasta de la informática y sus múltiples áreas de aplicac
 💻 Estas son algunas de las tecnologías con las que trabajo:  
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="Python" width="100" height="100">
-  <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" alt="React" width="100" height="100">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="Node.js" width="100" height="100">
+  <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="Python" width="80" height="80">
+  <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" alt="React" width="80" height="80">
+  <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="Node.js" width="80" height="80">
 </p>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="PostgreSQL" width="100" height="100">
-  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-300x245.png" alt="MariaDB" width="100" height="100">
-  <img src="https://www.muylinux.com/wp-content/uploads/2019/01/mongodb.png" alt="MongoDB" width="100" height="100">
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="PostgreSQL" width="80" height="80">
+  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-300x245.png" alt="MariaDB" width="80" height="80">
+  <img src="https://www.muylinux.com/wp-content/uploads/2019/01/mongodb.png" alt="MongoDB" width="80" height="80">
 </p>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="HTML" width="100" height="100">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="CSS" width="100" height="100">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="100" height="100">
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="HTML" width="80" height="80">
+  <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="CSS" width="80" height="80">
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="80" height="80">
 </p>
 
 
 ### Otras tecnologías y herramientas que utilizo:
 
 - **Frameworks y herramientas de desarrollo:**  
-  Flask, FastAPI, Django, Bootstrap, Docker, Tkinter.  
+  Flask, FastAPI, Django, Bootstrap, Docker, Tkinter, Git.  
 
 - **Análisis y manipulación de datos:**  
   Pandas, Numpy.  
@@ -61,9 +62,6 @@ Además, soy un entusiasta de la informática y sus múltiples áreas de aplicac
 **wsuar3z@gmail.com**
 
 ---
-
-Actualizo constantemente mis intereses de aprendizaje y los proyectos en los que estoy trabajando.  
-Espero que mi perfil sea de tu agrado.
 
 <!---
 Este es un repositorio especial, el cual contiene mi perfil principal.
