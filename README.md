@@ -17,6 +17,7 @@ Desde la implementación de Honeypots hasta el hardening de entornos Linux, busc
 
 <div align="center">
 
+| | | |
 | :---: | :---: | :---: |
 | <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" width="80"> <br> **Python** | <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" width="80"> <br> **React** | <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="80"> <br> **Node.js** |
 | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" width="80"> <br> **PostgreSQL** | <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-300x245.png" width="80"> <br> **MariaDB** | <img src="https://www.muylinux.com/wp-content/uploads/2019/01/mongodb.png" width="80"> <br> **MongoDB** |
